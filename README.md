@@ -17,11 +17,7 @@
 
 ##contatos: https://www.instagram.com/theuz.cordeiro/ target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<div>
-<a href="https://github.com/matheuscordeiro1">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscordeiro1&theme=dark&show_icons=true)
 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/matheuscordeiro1/matheus_cordeiro-/blob/2ab110eca504b734dc53a149c227ead3e18d61fd/octocat-1758563472359.png
