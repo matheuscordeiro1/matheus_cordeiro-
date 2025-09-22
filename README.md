@@ -3,7 +3,7 @@
 
 
 - ⚡ Dedicado aos estudos.
-- 🌱 Aprendendo: códigos, progamação ,pyton , lunux e etc...
+- 🌱 Aprendendo: códigos, progamação ,pyton , linux e etc...
 - 📫 Como entrar em contato comigo: no meu instagram theuz.cordeiro para fazer network.
 ## Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
