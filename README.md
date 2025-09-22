@@ -20,4 +20,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
-octocat-1758563472359.png
+https://github.com/matheuscordeiro1/matheus_cordeiro-/blob/2ab110eca504b734dc53a149c227ead3e18d61fd/octocat-1758563472359.png
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/matheuscordeiro1/matheus_cordeiro-/blob/2ab110eca504b734dc53a149c227ead3e18d61fd/octocat-1758563472359.png
+)
