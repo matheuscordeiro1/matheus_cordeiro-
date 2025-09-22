@@ -22,4 +22,4 @@
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/matheuscordeiro1/matheus_cordeiro-/blob/2ab110eca504b734dc53a149c227ead3e18d61fd/octocat-1758563472359.png
 )
-![Snake animation](https://github.com/matheuscordeiro1/matheuscordeiro1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/matheuscordeiro1/blob/output/github-contribution-grid-snake.svg)
