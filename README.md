@@ -1,5 +1,5 @@
 # Olá, me chamo Matheus ! 
-## Hello, Devs!!    👋
+## Hello, People!!    👋
 
 
 - ⚡ Dedicado aos estudos.
