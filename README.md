@@ -6,7 +6,7 @@
 - 🌱 Aprendendo: códigos, progamação ,pyton , linux e etc...
 - 📫 Como entrar em contato comigo: no meu instagram theuz.cordeiro para fazer network.
 ## Estou Aprendendo.
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="290" height="2990"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="290" height="290"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="290" height="2990"/>
 
 <img src="https://raw.githubusercontent.com/matheuscordeiro1/matheus_cordeiro-/refs/heads/main/Nmap.jpg"/>
 
