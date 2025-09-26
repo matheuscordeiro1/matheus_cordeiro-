@@ -18,8 +18,8 @@
 
 ##contatos: https://www.instagram.com/theuz.cordeiro/ target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+	/assets/images/electrocat.png Nmap.jpg
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.] 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscordeiro1&theme=dark&show_icons=true)
 
