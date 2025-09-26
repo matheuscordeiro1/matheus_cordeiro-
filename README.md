@@ -5,14 +5,14 @@
 - ⚡ Dedicado aos estudos.
 - 🌱 Aprendendo: códigos, progamação ,pyton , linux e etc...
 - 📫 Como entrar em contato comigo: no meu instagram theuz.cordeiro para fazer network.
-## Estou aprendendo
+## Estou Aprendendo.
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="290" height="2990"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="290" height="290"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="290" height="2990"/> 
-## Estou aprendendo
+## 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" width="290" height="2990"/> 
-## Estou aprendendo
+## 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="290" height="2990"/> 
-## Estou aprendendo
+## 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="290" height="2990"/> 
 
 
