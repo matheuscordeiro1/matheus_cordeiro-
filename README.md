@@ -8,6 +8,8 @@
 ## Estou Aprendendo.
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="290" height="2990"/>
 
+<img src="https://th.bing.com/th/id/OIP.u7Xr9EjJrGwDB1Ojex2adwHaEK?w=318&h=180&c=7&r=0&o=5&pid=1.7"/>
+
 <img src="https://raw.githubusercontent.com/matheuscordeiro1/matheus_cordeiro-/refs/heads/main/Nmap.jpg"/>
 
 <img src="https://tse1.mm.bing.net/th/id/OIP.uTzU11ffXteOROfhhwPLfQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"/>
