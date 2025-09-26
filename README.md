@@ -8,7 +8,7 @@
 ## Estou Aprendendo.
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="290" height="2990"/><img src="https://th.bing.com/th/id/OIP.u7Xr9EjJrGwDB1Ojex2adwHaEK?w=318&h=180&c=7&r=0&o=5&pid=1.7"/><img src="https://raw.githubusercontent.com/matheuscordeiro1/matheus_cordeiro-/refs/heads/main/Nmap.jpg"/>
 
-<img src="https://tse1.mm.bing.net/th/id/OIP.uTzU11ffXteOROfhhwPLfQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" width="290" height="2990"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" width="290" height="2990"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="290" height="2990"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="290" height="2990"/> 
+<img src="https://tse1.mm.bing.net/th/id/OIP.uTzU11ffXteOROfhhwPLfQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" width="290" height="2990"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" width="290" height="2990"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="290" height="400"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="290" height="2990"/> 
 
 
 ##contatos: https://www.instagram.com/theuz.cordeiro/ target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
